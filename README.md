@@ -28,8 +28,9 @@
 
 <h1 align="center">
 <h2 align="center">📊 GitHub Stats 📊</h2>
-<img src= "https://github-readme-stats.vercel.app/api?username=anirbandasdev&show_icons=true&theme=radical"/><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Anirbandasdev&theme=dark&hide_border=false"/><br>
 <p align="center">
+<img src= "https://github-readme-stats.vercel.app/api?username=anirbandasdev&show_icons=true&theme=radical"/><br>
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Anirbandasdev&theme=dark&hide_border=false"/><br>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Anirbandasdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 </h1>
