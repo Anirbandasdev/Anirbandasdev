@@ -44,7 +44,7 @@
   <!-- [![]()](https://www.buymeacoffee.com/Anirbandas.dev)  -->
   <p>
     <a href="https://www.buymeacoffee.com/Anirbandas.dev">
-        <img width="150" src= "https://uc80e5ba3058c2d15b2a77972a8b.previews.dropboxusercontent.com/p/thumb/AB_Nw6QrDEOZMrGc1UY-IkqzVlCCD9bSKuxGriXE0Qz1bakO495u6CjhXG6pUJbuTfwey6a1kIsd5Gmwk9Hq_znLrS_AhZNw-cmHw91REDPpwu1QMefjwQ41S3T2-0FCziS21lJYrKNRgboq8eRi6whmPNerBZvbYjWRfl8BpH32qrnKCkwrbP4EW_jliqyc9Fl_-vEP5Ye64DJSCdBduark7k1mmnKDLNDkW7Q4Obn7yJe-ohrXUFeSYkvkioLrxhrHzWrOkgtGTdA16jmdcFlyx64eotAuIwxCWE4MZKapUGwHh0TvYn9Uhb7q9E4SHBcX1HpSN7qQiZXkXGWB1CCs/p.png"/>
+        <img width="150" traget= "_blank" src= "https://uc80e5ba3058c2d15b2a77972a8b.previews.dropboxusercontent.com/p/thumb/AB_Nw6QrDEOZMrGc1UY-IkqzVlCCD9bSKuxGriXE0Qz1bakO495u6CjhXG6pUJbuTfwey6a1kIsd5Gmwk9Hq_znLrS_AhZNw-cmHw91REDPpwu1QMefjwQ41S3T2-0FCziS21lJYrKNRgboq8eRi6whmPNerBZvbYjWRfl8BpH32qrnKCkwrbP4EW_jliqyc9Fl_-vEP5Ye64DJSCdBduark7k1mmnKDLNDkW7Q4Obn7yJe-ohrXUFeSYkvkioLrxhrHzWrOkgtGTdA16jmdcFlyx64eotAuIwxCWE4MZKapUGwHh0TvYn9Uhb7q9E4SHBcX1HpSN7qQiZXkXGWB1CCs/p.png"/>
     </a>
   </p>
 
