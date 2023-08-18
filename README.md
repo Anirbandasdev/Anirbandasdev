@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on any Full-stack Project w/ Next.JS<br>💬 Ask me about HTML, CSS, JavaScript
+🔭 I’m currently working on my Portfolio<br>💬 Ask me about HTML, CSS, JavaScript
 
 
 ## 🌐 Socials:
