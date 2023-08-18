@@ -25,11 +25,14 @@
     <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,xd,figma,blender,vscode,discord,github,postman"/>
   </a>
 </p>
+<h1 align="center">
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<img src= "https://github-readme-stats.vercel.app/api?username=Anirbandasdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><img src= "https://github-readme-streak-stats.herokuapp.com/?user=Anirbandasdev&theme=dark&hide_border=false"/><br>
+<p align="center">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Anirbandasdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+</h1>
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Anirbandasdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anirbandasdev&theme=dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirbandasdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anirbandasdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -40,17 +43,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anirbandasdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anirbandasdev/anirbandasdev/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-
----
-<!-- [![](https://visitcount.itsvg.in/api?id=Anirbandasdev&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
   ## 💰 You can help me by Donating
   <!-- [![]()](https://www.buymeacoffee.com/Anirbandas.dev)  -->
