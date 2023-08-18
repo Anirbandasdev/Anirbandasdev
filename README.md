@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on any Full-stack Project w/ Next.JS<br>🌱 I’m currently learning Supabase<br>💬 Ask me about HTML, CSS, JavaScript, TypeScript, MySQL<br>⚡ Fun fact, people think that I'm either American or British, but in reality I'm Indian
+🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on any Full-stack Project w/ Next.JS<br>💬 Ask me about HTML, CSS, JavaScript
 
 
 ## 🌐 Socials:
