@@ -18,14 +18,6 @@
   </a> -->
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<p align="center">
-  <a href="https://www.youtube.com/@ANIRBANGAMINGYT">
-    <img src="https://skillicons.dev/icons?i=js,html,css,md,express,mongodb,nodejs,next,react,tailwind"/><br>
-    <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,xd,figma,blender,vscode,discord,github,postman"/>
-  </a>
-</p>
-
 <h1 align="center">
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
