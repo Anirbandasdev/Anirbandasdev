@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anirban+Das!;" />
 </h1>
 <h2 align="center">💫 About Me: 💫</h2>
-<h4 align="center">🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on any Full-stack Project w/ Next.JS<br>💬 Ask me about HTML, CSS, JavaScript</h4>
+<h4 align="center">🔭 I’m currently working on my Agency<br>👯 I’m looking to collaborate on any Full-stack Project w/ Next.JS<br>💬 Ask me about HTML, CSS, JavaScript</h4>
 
 <div align="center"> 
   <a href="mailto:Anirbandas.developer@gmail.com">
